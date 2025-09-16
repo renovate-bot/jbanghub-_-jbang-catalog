@@ -57,7 +57,7 @@
     },
     "oracle/graalpython": {
       "description": "A Python 3 implementation built on GraalVM",
-      "catalog-ref": "https://github.com/oracle/graalpython/blob/HEAD/jbang-catalog.json"
+      "catalog-ref": "https://github.com/oracle/graalpy-extensions/blob/HEAD/jbang-catalog.json"
     }
   },
   "aliases": {},
